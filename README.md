@@ -1,6 +1,14 @@
 Code to accompany Phil's June 2015 Tri-JUG presentation
 on OpenNLP.
 
+# Resumen LDyH - Práctica 4
+
+## Resumen de la práctica
+
+* **María Ferrándiz** - *alu0101475899*
+
+En esta práctica se ha trabajado con la herramienta SonarCloud para analizar la calidad del código fuente de un proyecto. Para ello, se ha utilizado el proyecto de Phil's June 2015 Tri-JUG presentation on OpenNLP, que se encuentra en el repositorio
+
 # Notes:
 
 TBD...
